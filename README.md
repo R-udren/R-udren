@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=r-udren&theme=flat" alt="r-udren trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=r-udren&theme=darkhub&no-frame=true" alt="r-udren trophies" />
   </a>
 </p>
 
@@ -57,10 +57,8 @@
 ---
 
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r-udren&show_icons=true&locale=en&layout=compact" alt="r-udren top languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r-udren&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="r-udren top languages" />
 </p>
 
-<p align="center">
-  <img img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r-udren&" alt="r-udren streak stats" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=R-Udren&theme=github_dark&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
 
