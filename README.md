@@ -7,9 +7,9 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [Chad App](https://github.com/R-udren/Chad-App)
+- 🔭 I’m not currently working on [Chad App](https://github.com/R-udren/Chad-App)
 
-- 🌱 I’m learning **FastAPI, Vue.js, and JavaScript**
+- 🌱 I’m learning **Rust, Vue.js, and JavaScript**
 
 - ⚡ Fun fact: **I use Arch btw**
 
