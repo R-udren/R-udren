@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://streak-stats.demolab.com/?username=r-udren&theme=darkhub&no-frame=true" alt="r-udren trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=r-udren&theme=darkhub&no-frame=true" alt="r-udren trophies" />
   </a>
 </p>
 
