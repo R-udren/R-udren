@@ -7,7 +7,7 @@
   </a>
 </p>
 
-- 🔭 I’m not currently working on [Chad App](https://github.com/R-udren/rovert-chat-app)
+- 🔭 I’m not currently working on [Chat App](https://github.com/R-udren/rovert-chat-app)
 
 - 🌱 I’m learning **Rust, Vue.js, and JavaScript**
 
