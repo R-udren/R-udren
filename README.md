@@ -9,7 +9,7 @@
 
 - 🔭 I’m not currently working on [AIChat](https://github.com/R-udren/rovertAIChat)
 
-- 🌱 I’m learning **Rust, Vue.js, and JavaScript**
+- 🌱 I’m learning **Rust, Vue.js, and TypeScript**
 
 - ⚡ Fun fact: **I use Arch btw**
 
