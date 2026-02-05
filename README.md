@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=r-udren&theme=darkhub&no-frame=true" alt="r-udren trophies" />
-  </a>
-</p>
-
 - 🌱 I’m learning **Rust, Vue.js, and TypeScript**
 
 - ⚡ Fun fact: **I use Arch btw**
