@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Robert</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">Software Engineer</h3>
 
 <p align="center">
@@ -6,8 +6,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=r-udren&theme=darkhub&no-frame=true" alt="r-udren trophies" />
   </a>
 </p>
-
-- 🔭 I’m not currently working on [AIChat](https://github.com/R-udren/rovertAIChat)
 
 - 🌱 I’m learning **Rust, Vue.js, and TypeScript**
 
@@ -53,12 +51,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
 </p>
-
----
-
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r-udren&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="r-udren top languages" />
-</p>
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=R-Udren&theme=github_dark&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
 
