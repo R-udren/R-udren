@@ -4,9 +4,10 @@ Software engineer. I build tools for games and the people who play them.
 
 ## Projects
 
+- **[RChecker Apps](https://apps.rchecker.com/links)** - all RChecker tools: stats lookup, SteamID parser and more
+
 - **[RChecker](https://rchecker.com/)** - Rust game checking tool
 - **[rust-password-rs](https://github.com/rchecker-dev/rust-password-rs)** - Windows app that shows Rust game passwords and command history
-- **[VoiceChatOver9000](https://github.com/R-udren/VoiceChatOver9000)** - voice chat with GPT
 - **[MonumentBlockerRemover](https://github.com/R-udren/MonumentBlockerRemover)** - Oxide plugin that deletes monument blockers on wipe
 
 ## Stack
