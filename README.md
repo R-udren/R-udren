@@ -1,6 +1,8 @@
 # Hi, I'm Robert
 
-Software engineer. I build tools for games and the people who play them.
+Software engineer / DevOps. I build tools for games and the people who play them.
+
+[![RChecker Apps](https://raw.githubusercontent.com/R-udren/R-udren/main/assets/rchecker-apps.webp)](https://apps.rchecker.com/links)
 
 ## Projects
 
