@@ -2,7 +2,7 @@
 
 Software engineer / DevOps. I build tools for games and the people who play them.
 
-[![RChecker Apps](https://raw.githubusercontent.com/R-udren/R-udren/main/assets/rchecker-apps.webp)](https://apps.rchecker.com/links)
+<div align="center"><a href="https://apps.rchecker.com/links"><img src="https://raw.githubusercontent.com/R-udren/R-udren/main/assets/rchecker-apps.webp" width="62%" alt="RChecker Apps"></a></div>
 
 ## Projects
 
